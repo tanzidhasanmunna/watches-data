@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Apple Watch Series 7",
+        "price": 899,
+        "features": [
+          "45mm Space Gray Aluminum Case",
+          "GPS + Cellular",
+          "Apple WatchOS 8"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Samsung Galaxy Watch Active 2",
+        "price": 399,
+        "features": [
+          "40mm Stainless Steel Case",
+          "GPS + Cellular",
+          "Samsung WatchOS 7"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Fitbit Versa 3",
+        "price": 249,
+        "features": [
+          "40mm Stainless Steel Case",
+          "Bluetooth",
+          "Fitbit OS 3"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Garmin Vivoactive 4",
+        "price": 349,
+        "features": [
+          "45mm Black Nylon Case",
+          "GPS + Cellular",
+          "Garmin Connect IQ"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Xiaomi Mi Watch",
+        "price": 199,
+        "features": [
+          "42mm Silicone Case",
+          "Bluetooth",
+          "Xiaomi MiUI"
+        ]
+      }
+]
